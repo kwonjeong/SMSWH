@@ -1,4 +1,4 @@
-package com.example.smswh;
+package com.example.jeong;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -17,7 +17,7 @@ public class IntroActivity extends AppCompatActivity {
         handler.postDelayed(new Runnable(){
             @Override
             public void run(){
-                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                Intent intent = new Intent(getApplicationContext(), Login.class);
                 startActivity(intent);
                 finish();
             }
@@ -29,8 +29,4 @@ public class IntroActivity extends AppCompatActivity {
         super.onPause();
         finish();
     }
-
-
-
-
 }

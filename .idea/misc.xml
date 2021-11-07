@@ -3,8 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/KwonJeong/Github/SMSWH/app/src/main/res/layout/activity_intro.xml" value="0.1671195652173913" />
-        <entry key="..\:/KwonJeong/Github/SMSWH/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18055555555555555" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/activity_intro.xml" value="0.18385416666666668" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/activity_main.xml" value="0.16927083333333334" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/activity_profile.xml" value="0.18385416666666668" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/activity_progile.xml" value="0.18385416666666668" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/activity_sign_up.xml" value="0.16666666666666666" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/activity_subinfo.xml" value="0.16822916666666668" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/activity_test.xml" value="0.18385416666666668" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/fragment_home.xml" value="0.18385416666666668" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/fragment_like.xml" value="0.18385416666666668" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/fragment_list.xml" value="0.6666666666666666" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/layout/fragment_profile.xml" value="0.18385416666666668" />
+        <entry key="..\:/KwonJeong/Android_Studio/app/src/main/res/menu/bottom_menu.xml" value="0.18385416666666668" />
       </map>
     </option>
   </component>

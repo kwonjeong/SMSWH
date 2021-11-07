@@ -1,4 +1,4 @@
-package com.example.smswh;
+package com.example.jeong;
 
 import org.junit.Test;
 

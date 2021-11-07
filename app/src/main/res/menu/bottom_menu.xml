@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="HOME"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/list"
+        android:enabled="true"
+        android:icon="@drawable/list"
+        android:title="Maps"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/like"
+        android:enabled="true"
+        android:icon="@drawable/heart"
+        android:title="Record"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/user"
+        android:title="Setting"
+        app:showAsAction="always">
+    </item>
+
+</menu>
